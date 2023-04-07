@@ -89,7 +89,7 @@
                         <img  class="service-icon" src="<?=base_url('assets/png/server.png')?>" alt="IT Equipments Sply">
                      </div>
                      <div class="feature-content">
-                         <h6>ICT Equipment Supply</h6>
+                         <h6>IT Equipment Supply & Installation</h6>
                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
                          <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
                      </div>
