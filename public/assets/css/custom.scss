@@ -1,0 +1,36 @@
+.feature-content h6{
+    font-size: 16px;
+}
+
+// Media query for small mobile devices
+@media (max-width: 576px) {
+    .service-icon {
+    width: 80px;
+    margin-bottom: 5px;
+}
+}
+
+// Media query for medium mobile devices
+@media (min-width: 576px) and (max-width: 768px) {
+     .service-icon {
+        width: 80px;
+        margin-bottom: 5px;
+  }
+}
+
+// Media query for large mobile devices
+@media (min-width: 768px) and (max-width: 992px) {
+   .service-icon {
+    width: 100px;
+    margin-bottom: 5px;
+  }
+}
+
+// Media query for extra-large mobile devices
+@media (min-width: 992px){
+ .service-icon {
+    width: 60px;
+    margin-bottom: 5px;
+    align-self: center;
+  }
+}

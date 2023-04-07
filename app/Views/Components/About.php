@@ -10,18 +10,24 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-content pl-70 rpl-0 rpb-30 wow fadeInRight delay-0-2s">
-                    <div class="section-title mb-35">
+                    <div class="section-title">
                         <!-- <span class="sub-title">It Support For Business</span> -->
-                        <h2>Preparing for your success trusted source in IT services.</h2>
+                        <h3>Preparing for your success trusted source in IT services.</h3>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
-                    <ul class="list-style-three mt-15">
-                        <li>which means as the company ramps</li>
-                        <li>Available in 14.1-in. and 16-in. versions.</li>
-                        <li>The potential loss of the Touch Bar.</li>
-                        <li>High-speed USB 4.0.</li>
+                    <p>Welcome to Bitlevo, where we pride ourselves on solving our clients' challenges through innovative technologies and customized solutions. Our team is dedicated to understanding your unique business needs and creating tailored solutions that help you overcome obstacles and achieve your goals. Let us help you harness the power of technology to drive your business forward</p>
+                    <ul class="list-style-three mt-5">
+                        <li>IT equipment supply</li>
+                        <li>Custom software development</li>
+                        <li>Mobile app development</li>
+                        <li>IT Security</li>
+                        <li>Web design and development</li>
+                        <li>E-commerce solutions</li>
+                        <li>Networking</li>
+                        <li>IT consulting services</li>
+                        <li>CCTV camera installation</li>
+                        <li>UX/UI & Graphics design</li>
                     </ul>
-                    <a href="about.html" class="theme-btn style-three mt-25">View details</a>
+                    <a href="<?base_url('about')?>" class="theme-btn style-three mt-25">Read More</a>
                 </div>
             </div>
         </div>
